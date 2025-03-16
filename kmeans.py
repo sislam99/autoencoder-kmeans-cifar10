@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 class Kmeansclustering:
     def __init__(self, X, K=10, max_iters=100, tol=1e-5):
