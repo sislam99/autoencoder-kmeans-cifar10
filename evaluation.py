@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 from sklearn.metrics import silhouette_samples, silhouette_score
